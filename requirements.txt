@@ -1,0 +1,7 @@
+numpy
+sympy
+pandas
+fredapi
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
