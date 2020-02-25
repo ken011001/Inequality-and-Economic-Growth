@@ -1,7 +1,8 @@
 numpy
 sympy
 pandas
-fredapi
 matplotlib
+plotly
+fredapi
 ipywidgets
 jupyter_contrib_nbextensions
