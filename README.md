@@ -1,4 +1,4 @@
-# data-visualization
+# World Long Term Economic Growth
 
 By using data from *Penn World Table*, I have constructed the animated graphs and maps for the long term economic growth across countries:
 
