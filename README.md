@@ -4,7 +4,7 @@
 
 By using data from *Penn World Table*, I have constructed the animated graphs and maps for the long term economic growth across countries:
 
-#### [rGDP per Capita Ladder](https://ken011001.github.io/data-visualization/html/rGDP%20per%20Capita%20Ladder.html)
+#### [World rGDP per Capita Ranking - Top 10 Countries/Regions](https://ken011001.github.io/data-visualization/html/rGDP%20per%20Capita%20Ladder.html)
 
 #### [rGDP per Captia vs Human Capital Index](https://ken011001.github.io/data-visualization/html/PWT.html)
 
