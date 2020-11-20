@@ -48,4 +48,4 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 ###### *FRED@St.Louis*
 
 ---
-###### In all graphs, 'country' actually stand for 'Country/Region'.
+###### In all graphs, 'Country' actually stand for 'Country/Region'.
