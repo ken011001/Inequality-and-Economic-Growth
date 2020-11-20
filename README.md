@@ -4,14 +4,15 @@
 
 By using cross country panel data from *World Bank*, *Penn World Table* and *Madison Project*, I have constructed the animated graphs and maps for the  across countries long term economic growth and inequality data:
 
-#### [World Historical rGDP per Capita Ranking - AD0001 to AD2018](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ranking_MPD2.html)
+#### [World Historical rGDP per Capita Ranking - AD0001 to AD2018 (*Madison Project*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ranking_MPD2.html)
 
-#### [World rGDP per Capita Ranking - Top 10 Countries/Regions](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ladder.html)
+#### [World rGDP per Capita Ranking - Top 10 Countries/Regions (*World Development Indicators, World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ladder.html)
 
 ![](/html/Years%20Lagged%20Behind.jpg?raw=true)
 ![](/html/MPD%20Lag%20Position.png?raw=true)
 
-#### [World rGDP per Capita Line Chart](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20MPD.html)
+#### [World Historical rGDP per Capita Line Chart - AD0001 to AD2018 (*Madison Project*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20MPD.html)
+#### [World rGDP per Capita Line Chart - Countries, Regions & Income Groups (*World Development Indicators, World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20WB.html)
 
 #### [rGDP per Captia vs Human Capital Index](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT.html)
 
