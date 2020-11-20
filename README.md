@@ -2,7 +2,17 @@
 
 # World Long Term Economic Growth
 
-By using cross country panel data from *World Bank*, *Penn World Table* and *Madison Project*, I have constructed the animated graphs and maps for the  across countries long term economic growth and inequality data:
+By using cross country panel data from *World Bank*, *Penn World Table* and *Madison Project*, I have constructed the animated graphs and maps for the  across countries long term economic growth and inequality data.
+
+---
+**The graphs and maps are interactive**:
+- Click on the name of the graph (in blue) to read 
+- Hover the mouse (or tap if using mobile device) to see the detail data
+- Stop the animation before scrolling on the time bar
+- Single click the legend item to select/de-select that item (region)
+- Doulbe click the legend item to read only that item (region)
+- More options on the top right corner of each graph webpage
+---
 
 #### [World Historical rGDP per Capita Ranking - AD0001 to AD2018 (*Madison Project*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ranking_MPD2.html)
 
