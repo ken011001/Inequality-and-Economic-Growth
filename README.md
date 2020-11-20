@@ -27,6 +27,8 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 
 #### [rGDP per Captia vs Human Capital Index](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT.html)
 
+#### [rGDP per Captia vs Life Expectency](https://ken011001.github.io/Inequality-and-Economic-Growth/html/GDP%20Scatter.html)
+
 #### [rGDP per Captia vs rGDP Growth](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT%20rGDP%20Growth.html)
 
 #### [rGDP per Captia vs Population Growth](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT%20Pop%20Growth.html)
