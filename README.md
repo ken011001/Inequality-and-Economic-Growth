@@ -47,3 +47,5 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 ###### Source of Data: 
 ###### *FRED@St.Louis*
 
+---
+###### In all graphs, 'country' actually stand for 'Country/Region'.
