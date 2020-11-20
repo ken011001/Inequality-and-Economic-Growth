@@ -1,4 +1,4 @@
-###### For the publishing site, please visit:[https://ken011001.github.io/data-visualization/](https://ken011001.github.io/Inequality-and-Economic-Growth/)
+###### For the published version of this site, please visit:[https://ken011001.github.io/Inequality-and-Economic-Growth/](https://ken011001.github.io/Inequality-and-Economic-Growth/)
 
 # World Long Term Economic Growth
 
