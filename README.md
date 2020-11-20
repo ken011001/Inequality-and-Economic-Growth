@@ -8,7 +8,8 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 
 #### [World rGDP per Capita Ranking - Top 10 Countries/Regions](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ladder.html)
 
-![](html/Years Lagged Behind.jpg)
+![](/html/Years%20Lagged%20Behind.jpg?raw=true)
+![](/html/MPD%20Lag%20Position.png?raw=true)
 
 #### [World rGDP per Capita Line Chart](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20MPD.html)
 
