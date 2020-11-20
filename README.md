@@ -19,7 +19,8 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 #### [World rGDP per Capita Ranking - Top 10 Countries/Regions (*World Development Indicators, World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ladder.html)
 
 ![](/html/Years%20Lagged%20Behind.jpg?raw=true)
-![**Location of Countries**: Country rGDP per Capita comparing to Historical World's rGDP per Capita](/html/MPD%20Lag%20Position.png?raw=true)
+#### Location of Countries: Country's rGDP per Capita v.s. Historical World's rGDP per Capita
+![](/html/MPD%20Lag%20Position.png?raw=true)
 
 #### [World Historical rGDP per Capita Line Chart - AD0001 to AD2018 (*Madison Project*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20MPD.html)
 #### [World rGDP per Capita Line Chart - Countries, Regions & Income Groups (*World Development Indicators, World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20WB.html)
