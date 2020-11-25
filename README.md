@@ -25,15 +25,15 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 #### [World Historical rGDP per Capita Line Chart - AD0001 to AD2018 (*Madison Project*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20MPD.html)
 #### [World rGDP per Capita Line Chart - Countries, Regions & Income Groups (*World Development Indicators, World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Line%20WB.html)
 
-#### [rGDP per Captia vs Human Capital Index (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP_HC_PWT.html)
+#### [rGDP per Capita vs Human Capital Index (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP_HC_PWT.html)
 
-#### [rGDP per Captia vs Life Expectency (*World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP_Life_Exp_Scatter.html)
+#### [rGDP per Capita vs Life Expectency (*World Bank*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP_Life_Exp_Scatter.html)
 
-#### [rGDP per Captia vs rGDP Growth (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT%20rGDP%20Growth.html)
+#### [rGDP per Capita vs rGDP Growth (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT%20rGDP%20Growth.html)
 
-#### [rGDP per Captia vs Population Growth (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT%20Pop%20Growth.html)
+#### [rGDP per Capita vs Population Growth (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/PWT%20Pop%20Growth.html)
 
-#### [rGDP per Captia Heat Map (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/Global%20rGDP%20per%20Capita%20Heat%20Map.html)
+#### [rGDP per Capita Heat Map (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/Global%20rGDP%20per%20Capita%20Heat%20Map.html)
 
 #### [Global Population Dot Map (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/Global%20Pop%20Map.html)
 
