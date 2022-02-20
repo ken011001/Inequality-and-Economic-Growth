@@ -12,6 +12,7 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 - Single click the legend item to select/de-select that item (region)
 - Doulbe click the legend item to read only that item (region)
 - More options on the top right corner of each graph page
+
 ---
 
 #### [World Historical rGDP per Capita Ranking - AD0001 to AD2018 (*Madison Project*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/rGDP%20per%20Capita%20Ranking_MPD2.html)
