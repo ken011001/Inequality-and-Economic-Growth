@@ -38,6 +38,7 @@ By using cross country panel data from *World Bank*, *Penn World Table* and *Mad
 #### [rGDP per Capita Heat Map (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/Global%20rGDP%20per%20Capita%20Heat%20Map.html)
 
 #### [Global Population Dot Map (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/Global%20Pop%20Map.html)
+#### [Average Annual Hours Worked Ranking (*Penn World Table*)](https://ken011001.github.io/Inequality-and-Economic-Growth/html/pwt_avh_bar.html)
 
 ###### Source of Data:
 ######  *Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), "The Next Generation of the Penn World Table" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt*
